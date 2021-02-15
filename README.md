@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @richx-x
+- 👋 Hi, I’m @richa-x
 - 👀 Currently just noodling around as I figure out how to use R  
 
 <!---
